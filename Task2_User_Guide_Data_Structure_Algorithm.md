@@ -35,6 +35,7 @@
 ## Links
 
 - **GitHub Repository:** [https://github.com/lucaslonew/Campus-study-room-reservation-system/blob/main/Task_2_code.py]
+- Video Link: https://www.youtube.com/watch?v=Owd5hnXC9TI
 
 ---
 
