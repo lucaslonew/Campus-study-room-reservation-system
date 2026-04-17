@@ -61,7 +61,7 @@
 
 ## Demo Video
 
-**[Watch 5-Minute Introduction Video](https://www.youtube.com/watch?v=a81Sm8L3BSE)**
+**[Watch 5-Minute Introduction Video](https://www.youtube.com/watch?v=Owd5hnXC9TI)**
 
 *The video demonstrates: login flow, room search, making a reservation, viewing bookings, and cancellation.*
 
@@ -199,7 +199,7 @@ campus-room-reservation/
 ## Links
 
 - **GitHub Repository:** [https://github.com/lucaslonew/Campus-study-room-reservation-system.git]
-- **Demo Video:** [YouTube - 5 Min Introduction](https://www.youtube.com/watch?v=a81Sm8L3BSE)
+- **Demo Video:** [YouTube - 5 Min Introduction](https://www.youtube.com/watch?v=Owd5hnXC9TI)
 
 ---
 
